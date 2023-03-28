@@ -1,0 +1,17 @@
+body {
+    background-color:powderblue;
+
+}
+hr { 
+    
+    border-top-style:double;
+    border-color: grey;
+    border-width: 5px;; 
+    width: 30%;
+}
+h1 {
+    color:darkolivegreen;
+}
+h3 {
+    color:darkolivegreen;
+}
